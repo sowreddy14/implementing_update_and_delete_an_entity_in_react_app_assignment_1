@@ -7,8 +7,8 @@
         },
         {
             "id": "2",
-            "name": "Back Door",
-            "status": "closed"
+            "name": "Front Door",
+            "status": "open"
         }
     ]
 }
